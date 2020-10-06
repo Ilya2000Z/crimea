@@ -11,3 +11,16 @@
 .text_1{
    line-height: 0.5;
 }
+.text_card{
+    color: white;
+}
+.text_card_1{
+    color: white;
+    font-size: 10%;
+}
+.grd{
+    background: linear-gradient(to right, #cccc33, #cc9933);
+}
+.liters{
+    color: white;
+}
