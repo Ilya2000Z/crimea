@@ -37,3 +37,6 @@
 .text_2{
    line-height: 0.7;
 }
+.button_styel_first{
+    background: linear-gradient(to right, #33cccc, #3366cc);
+}
