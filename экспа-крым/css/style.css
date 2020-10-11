@@ -40,3 +40,6 @@
 .button_styel_first{
     background: linear-gradient(to right, #33cccc, #3366cc);
 }
+.line_end{
+    border-bottom: 10px solid #3366cc;
+}
