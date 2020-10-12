@@ -43,3 +43,17 @@
 .line_end{
     border-bottom: 10px solid #3366cc;
 }
+
+.module-border-wrap {
+  max-width: 250px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, lightskyblue, blue);
+  padding: 15px;
+}
+
+.module {
+  background: #DCDCDC;
+  width: 100%;
+  padding: 2rem;
+}
