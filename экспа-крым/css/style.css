@@ -59,3 +59,15 @@
   width: 100%;
   padding: 2rem;
 }
+
+.bg_h {
+	background-image: url(crimea/экспа-крым/img/54584733_3.jpg);
+}
+
+.module-border-wrap_2 {
+
+
+  max-height: 2%;
+  background: linear-gradient(to right, lightskyblue, #4682B4	);
+
+}
