@@ -60,7 +60,7 @@
   width: 100%;
   padding: 2rem;
 }
-<<<<<<< HEAD
+
 
 .bg_h {
 	background-image: url(crimea/экспа-крым/img/54584733_3.jpg);
@@ -71,8 +71,8 @@
 
   max-height: 2%;
   background: linear-gradient(to right, lightskyblue, #4682B4	);
+}
 
-=======
 #overlay_gold {
    
     display: none;
@@ -83,6 +83,7 @@
     -moz-animation: fade .6s;
     animation: fade .6s;
     overflow: auto;}
+    
 #overlay {
    
     display: none;
@@ -193,5 +194,5 @@ span:nth-child(2n) {
 }
 figure {
   margin: 0;
->>>>>>> 45cc1e7c98774269e6ff7d597f2266634dd573a3
+
 }
