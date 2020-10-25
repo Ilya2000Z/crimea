@@ -1,0 +1,197 @@
+.text{
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1;
+}
+
+.hr_set{
+    color:#cccc00; border: 2px solid; ;
+ 
+    
+}
+.text_1{
+   line-height: 0.5;
+}
+.text_card{
+    color: white;
+}
+.text_card_1{
+    color: white;
+    font-size: 20px;
+}
+.grd{
+    background: linear-gradient(to right, #cccc33, #cc9933);
+}
+.liters{
+    color: white;
+}
+.yui{
+    font-family: 'Abel', sans-serif;
+}
+.gold_border {
+	border-left: 2px solid goldenrod;
+    
+
+}
+.rid{
+    font-family: 'Archivo Black', sans-serif;
+}
+.text_2{
+   line-height: 0.7;
+}
+.button_styel_first{
+    background: linear-gradient(to right, #33cccc, #3366cc);
+}
+.line_end{
+    border-bottom: 10px solid #3366cc;
+}
+.line_end_img{
+    border: 1px solid #000000;
+}
+.module-border-wrap {
+  max-width: 250px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, lightskyblue, blue);
+  padding: 15px;
+}
+
+.module {
+  background: #DCDCDC;
+  width: 100%;
+  padding: 2rem;
+}
+<<<<<<< HEAD
+
+.bg_h {
+	background-image: url(crimea/экспа-крым/img/54584733_3.jpg);
+}
+
+.module-border-wrap_2 {
+
+
+  max-height: 2%;
+  background: linear-gradient(to right, lightskyblue, #4682B4	);
+
+=======
+#overlay_gold {
+   
+    display: none;
+  
+   
+   
+    -webkit-animation: fade .6s;
+    -moz-animation: fade .6s;
+    animation: fade .6s;
+    overflow: auto;}
+#overlay {
+   
+    display: none;
+  
+   
+   
+    -webkit-animation: fade .6s;
+    -moz-animation: fade .6s;
+    animation: fade .6s;
+    overflow: auto;
+}
+#overlayfirst {
+   
+    display: none;
+  
+   
+   
+    -webkit-animation: fade .6s;
+    -moz-animation: fade .6s;
+    animation: fade .6s;
+    overflow: auto;
+}
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,500,300,600,700,800);
+ 
+h10 {
+
+ font-family: 'Archivo Black', sans-serif;
+ font-weight: 500;
+ font-size: 1.1em;
+ word-spacing: 5px;
+     font-kerning: none;
+    letter-spacing: 1px;
+}
+ 
+h9 {
+
+ font-family: 'Archivo Black', sans-serif;
+ font-weight: 500;
+ font-size: 1.7em;
+ word-spacing: 5px;
+     font-kerning: none;
+    letter-spacing: 1px;
+}
+ 
+.letterDrop {
+
+ top: 0.60em;
+ display: inline-block;
+ text-transform: uppercase;
+ letter-spacing: 0.1em;
+ opacity: 0.8;
+ transform: rotateX(-90deg);
+ animation: letterDrop 1.2s ease 1 normal forwards;
+}
+ 
+@keyframes letterDrop {
+
+ 
+ 100% {
+ opacity: 1;
+ top: 4.50em;
+ transform: rotateX(360deg);
+ }
+}
+ 
+span:nth-child(2n) {
+ padding: 0;
+        min-width: 0px;
+        display: inline-block;
+}
+
+
+
+@keyframes slide {
+  0% {
+    left: 0;
+    top: 0;
+  }
+  50% {
+    left: 244px;
+   
+  }
+  
+}
+.stage {
+  
+  
+  height: 150px;
+  position: relative;
+ 
+}
+.stage:hover .ball {
+  animation-name: slide;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-delay: .5s;
+  animation-fill-mode: forwards;
+}
+.stage:active .ball {
+  animation-play-state: paused;
+}
+.ball {
+  background: #2db34a;
+  border-radius: 50%;
+  height: 50px;
+  position: absolute;
+  width: 50px;
+}
+figure {
+  margin: 0;
+>>>>>>> 45cc1e7c98774269e6ff7d597f2266634dd573a3
+}

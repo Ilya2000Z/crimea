@@ -1,0 +1,73 @@
+.text{
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1;
+}
+
+.hr_set{
+    color:#cccc00; border: 2px solid; ;
+ 
+    
+}
+.text_1{
+   line-height: 0.5;
+}
+.text_card{
+    color: white;
+}
+.text_card_1{
+    color: white;
+    font-size: 10%;
+}
+.grd{
+    background: linear-gradient(to right, #cccc33, #cc9933);
+}
+.liters{
+    color: white;
+}
+.yui{
+    font-family: 'Abel', sans-serif;
+}
+.gold_border {
+	border-left: 2px solid goldenrod;
+
+}
+.rid{
+    font-family: 'Archivo Black', sans-serif;
+}
+.text_2{
+   line-height: 0.7;
+}
+.button_styel_first{
+    background: linear-gradient(to right, #33cccc, #3366cc);
+}
+.line_end{
+    border-bottom: 10px solid #3366cc;
+}
+.line_end_img{
+    border: 1px solid #000000;
+}
+.module-border-wrap {
+  max-width: 250px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, lightskyblue, blue);
+  padding: 15px;
+}
+
+.module {
+  background: #DCDCDC;
+  width: 100%;
+  padding: 2rem;
+}
+
+.bg_h {
+	background-image: url(crimea/экспа-крым/img/54584733_3.jpg);
+}
+
+.module-border-wrap_2 {
+
+
+  max-height: 2%;
+  background: linear-gradient(to right, lightskyblue, #4682B4	);
+
+}

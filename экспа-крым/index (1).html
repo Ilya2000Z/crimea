@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Bootstrap CSS -->
       <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
 
@@ -79,19 +79,21 @@
 						
 						<div class="gold_border">
          
-         				 <h4 class="text_card" style="color: white;margin-left: 20px;;">Магазин мебели с лучшими ценами</h4> 
+         			 <h9  class="text_card " style="color: white;margin-left: 20px; letter-spacing: 1px;">Магазин мебели  </h9> 
                 	
-               			 <h3 class="text_card_1" style=" margin-left: 20px;">Быстрая сборка и доставка на дом</h3>
-                </div>
+               			 <h9 class="text_card" style=" margin-left: 20px;letter-spacing: 1px" >с лучшими ценами</h9>
+                            <h10 class="text_card" id="" style=" margin-left: 20px;letter-spacing: 1px" >Быстрая сборка и доставка на дом</h10>
+                            
+               </div>
             </div>
 <br>
                  <div class="row">
                 <div class="col-xs-12 col-md-11 col-xl-8 ml-md-auto">
-                  
-                <button type="button" class="btn btn-warning btn-lg badge-pill grd ">Консультация</button>
+                  <div class="row">
+                <button type="button" class="btn btn-warning btn-lg badge-pill grd  "id="overlay" style="z-index: 7">Консультация</button>
                    
-                        <button type="button" class="btn badge-pill btn-lg border-warning text-white rounded-pill  waves-effect offset-3 " >Продукция</button>
-                      
+                        <button type="button" class="btn badge-pill btn-lg border-warning text-white rounded-pill  waves-effect offset-3 " id="overlayfirst" style="z-index: 8">Продукция</button>
+                      </div>
                        </div> 
                 </div>
                       </div>
@@ -397,7 +399,7 @@
            <div class="col-12 col-sm-12 col-md-2 offset-md-8" style="z-index: 6; position:absolute; padding-left: 0;padding-right: 0;">
                <br>
                <br>
-        <img src="img/nomber.jpg" class="img-fluid line_end_img" style="" >
+      <!--  <img src="img/nomber.jpg" class="img-fluid line_end_img" style="" >-->
                </div>
            <div  >
        <footer class="col-12 col-sm-12 col-md-12 col-lg-12 container-fluid line_end " style="padding:0; max-height: 100%; ">
@@ -414,7 +416,35 @@
            
 </div>
 
-         
+       
+       <script type="text/javascript">
+        var delay_popup = 1500;
+        setTimeout("document.getElementById('overlay').style.display='block'", delay_popup);
+</script>
+       <script type="text/javascript">
+        var delay_popup = 2000;
+        setTimeout("document.getElementById('overlayfirst').style.display='block'", delay_popup);
+</script>
+       <script type="text/javascript">
+        var delay_popup = 3000;
+        setTimeout("document.getElementById('overlay_gold').style.display='block'", delay_popup);
+</script>
+       <!------------------------------->
+
+ 
+<!-- content generated with JS -->  
+
+ 
+  <div class="stage">
+  <figure class="ball"></figure>
+</div>
+  
+       <script src="js/text.js"></script>
+
+    <script  src="js/index.js"></script>
+       <script src="js/Prise.js"></script>
+  <!--Carousel Wrapper-->
+
     
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
