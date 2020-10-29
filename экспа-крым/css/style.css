@@ -2,7 +2,9 @@
     font-family: "Times New Roman", Times, serif;
     line-height: 1;
 }
-
+.text_start{
+    line-height: 0.5;
+}
 .hr_set{
     color:#cccc00; border: 2px solid; ;
  
@@ -223,10 +225,354 @@ figure {
 .text_4{
     
 }
+.text_5{
+    
+}
+.text_6{
+    
+}
+.text_7{
+    
+}
+.text_8{
+    
+}
+.trekhok{
+    
+}
+.text_9{
+        
+    }
+.text_10{
+    
+}
+.text_11{
+    
+}
+ .text_12{
+        
+    }
+.text_13{
+        
+    }
+.text_16{
+    
+}
+.text_15{
+    
+}
+.text_trip{
+       
+    }
+.text_20{
+    
+}
+.drim{
+        
+    }
+.trt{
+       
+    }
 * {
     transition: all .2s;
 }
-@media only all and (orientation: portrait)
+@media only screen and (max-width : 768px) {
+    .text_trip{
+     font-size: 12px;   
+    }
+    .module {
+  background: #DCDCDC;
+  width: 100%;
+  padding: 2rem;
+}
+    .text_start{
+        line-height: 1.0;
+    }
+    
+    .gold_border {
+        margin-left: -100px;
+        border-left: 2px solid goldenrod;
+    height: 100px;
+    }
+    
+    .line_end_img {
+        width: 900px;
+        margin-top: 10px;
+        
+    }
+    .fixs{
+        margin-left: 10px;
+        margin-top: px;
+    }
+    .flip{
+        margin-left: 10px;
+        margin-top: px;
+    }
+    .text_card{
+        margin-left: 10px;
+        margin-top: px;
+        font-size: 15px;
+        color:white;
+    }
+    .otvod{
+        margin-left: px;
+    }
+    .size_cnopka{
+        margin-top: -30px;
+    }
+   
+    .reactt{
+        width: 100px;
+    }
+    .text_3{
+        text-align: center ;
+        margin-top: px;
+    }
+    .text_4{
+       
+        margin-top -20px;
+    }
+    .text_5{
+        margin-top: -50px;
+     font-size: 30px;
+   
+    }
+    .text_6{
+        margin-top: -30px;
+        font-size: 20px;
+    }
+    .text_7{
+        margin-left: px;
+    }
+    .text_8{
+        
+    }
+    .text_9{
+        margin-top: -40px;
+        font-size: 30px;
+        margin-left: -10px;
+    }
+    .text_10{
+         font-size: 20px;
+        margin-top: -45px;
+    }
+    .text_11{
+        margin-left: 40px;
+         margin-top: -6px;
+    }
+    .text_12{
+        font-size: 15px;
+       
+    }
+    .text_13{
+        margin-top: -20px;
+    }
+    .text_14{
+        margin-top: -45px;
+    }
+    .text_15{
+        font-size: 15px;
+        
+    }
+    .text_16{
+        margin-left: 40px;
+        margin-top: -12px;
+    }
+    .text_17{
+        font-size: 20px;
+    }
+    .text_18{
+        margin-top: -18px;
+    }
+    .text_19{
+         margin-top: -20px;
+        font-size: 30px;
+        margin-left: -10px;
+    }
+    .text_20{
+        margin-top: -20px;
+    }
+    .drim{
+        margin-top: -20px;
+    }
+    .trt{
+        margin-top: -25px;
+    }
+}
+@media only screen and (max-width : 425px) {
+    .gold_border {
+        margin-left: 10px;
+        border-left: 2px solid goldenrod;
+    height: 100px;
+    }
+    
+    .line_end_img {
+        width: auto;
+        margin-top: 310px;
+        
+    }
+    .fixs{
+        margin-left: 30px;
+        margin-top: 250px;
+    }
+    .flip{
+        margin-left: 220px;
+        margin-top: -50px;
+    }
+    .text_card{
+        margin-left: 30px;
+        margin-top: 130px;
+        font-size: 30px;
+        color: white;
+    }
+    .otvod{
+        margin-left: 30px;
+    }
+    .size_cnopka{
+        margin-top: -30px;
+    }
+    .trip{
+        margin-top: -100px;
+    }
+    .reactt{
+        width: 100px;
+    }
+    .text_3{
+        text-align: center ;
+    }
+    .text_4{
+        margin-left: 150px;
+    }
+    .text_5{
+      margin-top: -20px;
+   
+    }
+    .text_6{
+        margin-top: 20px;
+        margin-left: -20px;
+    }
+    .text_7{
+        margin-left: -25px;
+    }
+    .text_8{
+        
+    }
+    .text_9{
+        margin-top: -35px;
+        font-size: 40px;
+        margin-left: 10px;
+    }
+    .text_10{
+         font-size: 20px;
+        margin-top: -10px;
+    }
+    .text_11{
+        margin-left: 0px;
+         margin-top: 0px;
+    }
+    .text_12{
+        font-size: 15px;
+       
+    }
+    .text_13{
+        margin-top: -30px;
+    }
+    .text_14{
+        margin-top: 0px;
+    }
+    .text_15{
+        font-size: 15px;
+        
+    }
+    .text_16{
+        margin-left: 10px;
+        margin-top: 0px;
+    }
+    .text_17{
+        font-size: 20px;
+    }
+    .text_18{
+        margin-top: 0px;
+    }
+    .text_19{
+         margin-top: -31px;
+        font-size: 40px;
+        margin-left: 10px;
+    }
+    .text_20{
+        margin-top: 0px;
+    }
+    .drim{
+        margin-top: 0px;
+    }
+    .trt{
+        margin-top: 0px;
+    }
+    .text_21{
+        text-align: center;
+    }
+   
+}
+@media only screen and (max-width : 375px) {
+    .gold_border {
+        border-left: 2px solid goldenrod;
+    height: 100px;
+    }
+    
+    .line_end_img {
+        width: auto;
+        margin-top: 310px;
+        
+    }
+    .fixs{
+        margin-left: 20px;
+        margin-top: 180px;
+    }
+    .flip{
+        margin-left: 190px;
+        margin-top: -50px;
+    }
+    .text_card{
+        margin-left: 30px;
+        margin-top: 130px;
+        font-size: 23px;
+        color: white;
+    }
+    .otvod{
+        margin-left: 30px;
+    }
+    .size_cnopka{
+        margin-top: -30px;
+    }
+    .trip{
+        margin-top: -100px;
+    }
+    .reactt{
+        width: 100px;
+    }
+    .text_3{
+        text-align: center ;
+    }
+    .text_4{
+        margin-left: 150px;
+    }
+    .text_5{
+      margin-top: -50px;
+   
+    }
+    .text_6{
+        margin-top: 60px;
+        margin-left: -20px;
+    }
+    .text_7{
+        margin-left: -25px;
+    }
+    .text_8{
+        
+    }
+}
+
+@media only screen and (max-width : 320px)
 {
     .gold_border {
         border-left: 2px solid goldenrod;
@@ -247,8 +593,8 @@ figure {
         margin-top: -50px;
     }
     .text_card{
-        
-        margin-top: 100px;
+         margin-left: 0px;
+        margin-top: 70px;
         font-size: 23px;
         color: white;
     }
@@ -271,44 +617,19 @@ figure {
          margin-left: 115px;
    
     }
-}
-
-@media only all and (min-device-width:321px, max-device-width : 375px) {
-    .gold_border {
-        border-left: 2px solid goldenrod;
-    height: 100px;
+    text_5{
+      margin-top: -50px;
+   
     }
-    
-    .line_end_img {
-        width: auto;
-        margin-top: 310px;
+    .text_6{
+        margin-top: 0px;
+        margin-left: -5px;
+    }
+    .text_7{
+        margin-left: 10px;
+    }
+    .text_8{
         
     }
-    .fixs{
-        margin-left: 20px;
-        margin-top: 300px;
-    }
-    .flip{
-        margin-left: 190px;
-        margin-top: -50px;
-    }
-    .text_card{
-        margin-left: 30px;
-        margin-top: 200px;
-        font-size: 23px;
-        color: white;
-    }
-    .otvod{
-        margin-left: 25px;
-    }
-    .size_cnopka{
-        margin-top: -30px;
-    }
-    .trip{
-        margin-top: -100px;
-    }
-    .reactt{
-        width: 100px;
-    }
-   
 }
+
