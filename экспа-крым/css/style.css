@@ -276,6 +276,146 @@ figure {
 * {
     transition: all .2s;
 }
+@media only screen and (max-width : 1440px) {
+     .fixs{
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+    .flip{
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+     .text_card{
+        margin-left: 10px;
+        margin-top: px;
+        font-size: 20px;
+        color:white;
+    }
+    
+}
+
+@media only screen and (max-width : 1024px) {
+    .text_trip{
+     font-size: 12px;   
+    }
+    .module {
+  background: #DCDCDC;
+  width: 100%;
+  padding: 2rem;
+}
+    .text_start{
+        line-height: 1.0;
+    }
+    
+    .gold_border {
+        margin-left: -100px;
+        border-left: 2px solid goldenrod;
+    height: 100px;
+    }
+    
+    .line_end_img {
+        width: 900px;
+        margin-top: 10px;
+        
+    }
+    .fixs{
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+    .flip{
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+    .text_card{
+        margin-left: 10px;
+        margin-top: px;
+        font-size: 20px;
+        color:white;
+    }
+    .otvod{
+        margin-left: px;
+    }
+    .size_cnopka{
+        margin-top: -10px;
+    }
+   
+    .reactt{
+        width: 100px;
+    }
+    .text_3{
+        text-align: center ;
+        margin-top: px;
+    }
+    .text_4{
+       
+        margin-top -20px;
+    }
+    .text_5{
+        margin-top: -40px;
+     font-size: 40px;
+   
+    }
+    .text_6{
+        margin-top: -10px;
+        font-size: 30px;
+    }
+    .text_7{
+        margin-left: px;
+    }
+    .text_8{
+        
+    }
+    .text_9{
+        margin-top: -30px;
+        font-size: 40px;
+        margin-left: -10px;
+    }
+    .text_10{
+         font-size: 30px;
+        margin-top: -50px;
+    }
+    .text_11{
+        margin-left: 70px;
+         margin-top: -10px;
+    }
+    .text_12{
+        font-size: 15px;
+       
+    }
+    .text_13{
+        margin-top: -20px;
+    }
+    .text_14{
+        margin-top: -15px;
+    }
+    .text_15{
+        font-size: 15px;
+        
+    }
+    .text_16{
+        margin-left: -10px;
+        margin-top: 0px;
+    }
+    .text_17{
+        font-size: 30px;
+    }
+    .text_18{
+        margin-top: -18px;
+    }
+    .text_19{
+         margin-top: -20px;
+        font-size: 40px;
+        margin-left: -10px;
+    }
+    .text_20{
+        margin-top: -20px;
+    }
+    .drim{
+        margin-top: -20px;
+    }
+    .trt{
+        margin-top: -25px;
+    }
 @media only screen and (max-width : 768px) {
     .text_trip{
      font-size: 12px;   
@@ -302,11 +442,11 @@ figure {
     }
     .fixs{
         margin-left: 10px;
-        margin-top: px;
+        margin-top: -20px;
     }
     .flip{
         margin-left: 10px;
-        margin-top: px;
+        margin-top: -20px;
     }
     .text_card{
         margin-left: 10px;
@@ -464,7 +604,7 @@ figure {
     }
     .text_10{
          font-size: 20px;
-        margin-top: -10px;
+        margin-top: -5px;
     }
     .text_11{
         margin-left: 0px;
@@ -561,7 +701,7 @@ figure {
    
     }
     .text_6{
-        margin-top: 60px;
+        margin-top: 20px;
         margin-left: -20px;
     }
     .text_7{
@@ -569,6 +709,9 @@ figure {
     }
     .text_8{
         
+    }
+    .text_10{
+        margin-top: 5px;
     }
 }
 
@@ -630,6 +773,9 @@ figure {
     }
     .text_8{
         
+    }
+    .text_10{
+        margin-top: 5px;
     }
 }
 
