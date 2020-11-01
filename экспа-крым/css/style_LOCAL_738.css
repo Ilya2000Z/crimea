@@ -71,3 +71,23 @@
   background: linear-gradient(to right, lightskyblue, #4682B4	);
 
 }
+
+
+@media only screen and (min-width:426px)
+{
+       .spr{font-size: 0px;}
+}
+@media only screen and (max-width : 426px){
+    .def{width: 0px;
+    height: 0px;}
+    .rec{
+        color: white;
+    }
+}
+
+@media only screen and (max-width : 320px){
+    
+    .rekt{
+        width: 0px;
+    }
+}
