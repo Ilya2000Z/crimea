@@ -778,4 +778,10 @@ figure {
         margin-top: 5px;
     }
 }
+    @media only screen and (min-width : 760px)
+    {
+        .katalog_hed{
+            font-size: 1.5vw;  margin: 0;
+        }
+    }
 
